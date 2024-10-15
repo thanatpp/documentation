@@ -98,7 +98,7 @@ export const user = pgTable(
     }
 )
 
-export const Table = {
+export const table = {
 	user
 } as const
 
